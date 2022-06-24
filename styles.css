@@ -1,0 +1,48 @@
+body {
+    background-image: url("https://s1.eestatic.com/2017/04/18/elbernabeu/real-madrid/futbol/futbol_209490887_89746556_1706x960.jpg");
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+div {
+    width: 50em;
+    height: auto;
+    background: rgba(125, 253, 93, 0.9);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-button {
+    background: darkred;
+}
+
+#save-button {
+    background: darkgreen;
+}
